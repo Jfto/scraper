@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Widget</class>
+ <widget class="QWidget" name="Widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>193</width>
+    <height>303</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Widget</string>
+  </property>
+  <widget class="QPushButton" name="KithShoes">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>201</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius:0; border:1px solid black; background:white;</string>
+   </property>
+   <property name="text">
+    <string>Kith Shoes</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="CancelBTN">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>280</y>
+     <width>201</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius:20; background:red; border:1px solid white;color:white;</string>
+   </property>
+   <property name="text">
+    <string>Cancel</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="GoBTN">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>240</y>
+     <width>201</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius:20; background:green; border:1px solid white;color:white;</string>
+   </property>
+   <property name="text">
+    <string>Go</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="KithOther">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>30</y>
+     <width>201</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius:0; border:1px solid black; background:white;</string>
+   </property>
+   <property name="text">
+    <string>Kith Other</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="StoneIslandShoe">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>60</y>
+     <width>201</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius:0; border:1px solid black; background:white;</string>
+   </property>
+   <property name="text">
+    <string>Stoney Island Shoe</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="StoneIslandOther">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>90</y>
+     <width>201</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius:0; border:1px solid black; background:white;</string>
+   </property>
+   <property name="text">
+    <string>Stone Island Other</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="UndefeatedShoe">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>120</y>
+     <width>201</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius:0; border:1px solid black; background:white;</string>
+   </property>
+   <property name="text">
+    <string>Undefeated Shoe</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="UndefeatedOther">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>150</y>
+     <width>201</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius:0; border:1px solid black; background:white;</string>
+   </property>
+   <property name="text">
+    <string>Undefeated Other</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ConceptsShoe">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>180</y>
+     <width>201</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius:0; border:1px solid black; background:white;</string>
+   </property>
+   <property name="text">
+    <string>Concepts Shoe</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ConceptOther">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>210</y>
+     <width>201</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius:0; border:1px solid black; background:white;</string>
+   </property>
+   <property name="text">
+    <string>Concept Other</string>
+   </property>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
